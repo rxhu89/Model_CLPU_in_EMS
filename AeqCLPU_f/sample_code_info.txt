@@ -1,0 +1,4 @@
+1. Code of the case: EMS with AeqCLPU model (with flexible multiple-step peak duration)
+2. Coded by Rongxing Hu in May. 2024, guliusha@outlook.com, NCSU
+3. Coded and tested on Matlab 2019,
+4. The EMS optimization problem is modeled by Yalmip, and solved by Gurobi 11.
