@@ -1,0 +1,5 @@
+Data info:
+1. Ambient temperature in Celsius: Tout_data_hour_C.mat
+2. Normal HVAC load of each phase in each group: Pgrp_ph_hvac_norm_data.mat
+3. Parameters of the ss-RCQ HVAC model for 2000 HVACs, Only the first 1007 HVACs are used since the test system has 1007 houses: hvac_para_random_2000_35_3000_Sduty1.mat
+4. CLPU parameters for the AdaptCLPU model: CLPU_factor_summary_random_adj.xlsx
