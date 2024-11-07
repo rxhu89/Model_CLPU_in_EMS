@@ -1,0 +1,4 @@
+circuit data: 
+1. Topology, 'IEEE123_topology_candidates_reduced.xlsx'
+2. The houses that are within each phase of each load group, 'map_house_idx_grp_ph.mat'
+   Data frame: group 1, ph A: house_idx1, house_index2
