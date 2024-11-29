@@ -3,6 +3,6 @@
 3. Coded and tested on Matlab 2019,
 4. The EMS optimization problem is modeled by Yalmip, and solved by Gurobi 11.
 
-Please refer to the APEN paper for the AdaptCLPU model(using different data for the case study):
+Please refer to the APEN paper for the AdaptCLPU model(using different data (open) for the case study):
 https://www.sciencedirect.com/science/article/abs/pii/S0306261923017889
 https://github.com/rxhu89/APEN_paper_MGUC_CLPU
